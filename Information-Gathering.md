@@ -4,18 +4,19 @@
 [Passive Information Gathering](#passive-information-gathering)
 
   - [Tools](#tools)
-  - [[Information-Gathering#DNS Recon|DNS Recon]]
-  - [[Information-Gathering#WAF Analyse|WAF Analyse]]
-  - [[Information-Gathering#Google Dorks|Google Dorks]]
-  - [[Information-Gathering#Databases Leak|Databases Leak]]
+  - [DNS Recon](#dns-recon)
+  - [WAF Analyse](#waf-analyse)
+  - [Google Dorks](#google-dorks)
+  - [Databases Leak](#databases-leak)
 
-[[Information-Gathering#Active Information Gathering|Active Information Gathering]]
-- [[Information-Gathering#DNS Zone Transfer|DNS Zone Transfer]]
-- [[Information-Gathering#Network Mapping|Network Mapping]]
-	- [[Information-Gathering#Host Discovery|Host Discovery]]
-	- [[Information-Gathering#Port Scanning|Port Scanning]]
-	- [[Information-Gathering#Service Version and OS Detection|Service Version and OS Detection]]
-	- [[Information-Gathering#Firewall Detection & IDS Evasion|Firewall Detection & IDS Evasion]]
+[Active Information Gathering](#active-information-gathering)
+
+- [DNS Zone Transfer](#dns-zone-transfer)
+- [Network Mapping](#network-mapping)
+	- [Host Discovery](#host-discovery)
+	- [Port Scanning](#port-scanning)
+	- [Service Version and OS Detection](#service-version-and-os-detection)
+	- [Firewall Detection & IDS Evasion](#firewall-detection--ids-evasion)
 
 
 # What is it ?
